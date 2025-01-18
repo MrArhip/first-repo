@@ -17,6 +17,7 @@ body{
 
     min-height: 100vh;
     background-color:  #25434e;
+    color: #fff;
 }
 
 .logo{
@@ -30,6 +31,14 @@ body{
     background-color: black;
     font-size: 1.5rem;
     width: 100%;
-    max-width: 100px;
+    max-width: 150px;
+    align-items: center;
     text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    list-style-type: square;
+
 }
+
+
+
